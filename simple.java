@@ -1,38 +1,38 @@
-private void deductRow(int rowIndex, int[][] matrix, boolean[] checkNeedCols) {
+private void deductColumn(int colIndex, int[][] matrix, boolean[] checkNeedRows) {
 		final int numRows = this.rowSequences.length;
 		final int numCols = this.colSequences.length;
-		int maxNumRowSeqs = this.rowSequences[rowIndex].length;
+		int maxNumColSeqs = this.colSequences[colIndex].length;
 
-		int[] rowItemValues = new int[numCols];
-		for (int c = 0; c < numCols; c++) {
-			rowItemValues[c] = PUZZLE_INITIAL_VALUE;
+		int[] colItemValues = new int[numRows];
+		for (int r = 0; r < numRows; r++) {
+			colItemValues[r] = PUZZLE_INITIAL_VALUE;
 		}
-		this.rowItemTrueCounts = new int[numCols]; // init: zeros
+		this.colItemTrueCounts = new int[numRows]; // init: zeros
 		this.configurationCount = 0;
 
-		int[] rowSeqEndIndices = new int[maxNumRowSeqs];
-		for (int j = 0; j < maxNumRowSeqs; j++) {
-			rowSeqEndIndices[j] = ILLEGAL_END_INDEX;
+		int[] colSeqEndIndices = new int[maxNumColSeqs];
+		for (int j = 0; j < maxNumColSeqs; j++) {
+			colSeqEndIndices[j] = ILLEGAL_END_INDEX;
 		}
 
-		this.deductRowRecursive(rowIndex, 0, rowItemValues, matrix, rowSeqEndIndices);
+		this.deductColRecursive(colIndex, 0, colItemValues, matrix, colSeqEndIndices);
 
 		if (configurationCount == 0) throw new RuntimeException("INTERNAL ERROR: configurations == 0");
 
-		for (int c = 0; c < numCols; c++) {
-			if (this.rowItemTrueCounts[c] == 0) {
+		for (int r = 0; r < numRows; r++) {
+			if (this.colItemTrueCounts[r] == 0) {
 				// it's impossible to legally place a 'true' --> 'false' is certain
-				if (matrix[rowIndex][c] != PUZZLE_FALSE) {
-					checkNeedCols[c] = true;
-					matrix[rowIndex][c] = PUZZLE_FALSE;
+				if (matrix[r][colIndex] != PUZZLE_FALSE) {
+					checkNeedRows[r] = true;
+					matrix[r][colIndex] = PUZZLE_FALSE;
 					this.deductedItems++;
 				}
 			}
-			else if (this.rowItemTrueCounts[c] == this.configurationCount) {
+			else if (this.colItemTrueCounts[r] == this.configurationCount) {
 				// it's impossible to legally place a 'false' --> 'true' is certain
-				if (matrix[rowIndex][c] != PUZZLE_TRUE) {
-					checkNeedCols[c] = true;
-					matrix[rowIndex][c] = PUZZLE_TRUE;
+				if (matrix[r][colIndex] != PUZZLE_TRUE) {
+					checkNeedRows[r] = true;
+					matrix[r][colIndex] = PUZZLE_TRUE;
 					this.deductedItems++;
 				}
 			}
