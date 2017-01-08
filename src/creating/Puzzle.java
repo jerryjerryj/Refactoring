@@ -7,29 +7,24 @@ package creating;
  * Time: 21:32
  * To change this template use File | Settings | File Templates.
  */
-public class Puzzle {
+public class Puzzle
+{
     private int[][] rowSequences;
-    private int[][] colSequences;
-    private int[][] puzzleMatrix;
+    private int[][] columnSequences;
 
-    public Puzzle(int[][] rowSequences, int[][] colSequences) {
+    public Puzzle(int[][] rowSequences, int[][] columnSequences)
+    {
         this.rowSequences = rowSequences;
-        this.colSequences = colSequences;
-
-        this.puzzleMatrix = new int[rowSequences.length][colSequences.length];
+        this.columnSequences = columnSequences;
     }
 
-    public int[][] getRowSequences(){
+    public int[][] getRowSequences()
+    {
         return rowSequences;
     }
-    public int[][] getColSequences(){
-        return colSequences;
-    }
-    public int[][] getPuzzleMatrix(){
-        return puzzleMatrix;
-    }
-    public void setPuzzleMatrix(int[][] matrix){
-        puzzleMatrix = matrix;
+    public int[][] getColumnSequences()
+    {
+        return columnSequences;
     }
 
 }

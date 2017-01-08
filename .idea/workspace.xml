@@ -4,30 +4,37 @@
     <list default="true" id="0d3b1c08-ddd2-45b8-b499-efd06de6f467" name="Default" comment="" />
     <ignored path="japanese-puzzle-master.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483635190468" ignored="false" />
-    <file path="/JapanesePuzzle.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483636234901" ignored="false" />
+    <file path="/fragment.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483831405344" ignored="false" />
+    <file path="/JapanesePuzzle.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483827998613" ignored="false" />
     <file path="/ConsoleDescriptor.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483567220371" ignored="false" />
     <file path="/Console.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483566605945" ignored="false" />
-    <file path="/InputFile.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483635438440" ignored="false" />
+    <file path="/InputFile.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483820908292" ignored="false" />
     <file path="/Sequencer.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483616394981" ignored="false" />
-    <file path="/Solver.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483639960269" ignored="false" />
+    <file path="/Solver.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483836904831" ignored="false" />
     <file path="/ProcessorCreator.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483615441748" ignored="false" />
     <file path="/Processor.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483616216188" ignored="false" />
-    <file path="/Puzzle.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483634596561" ignored="false" />
+    <file path="/Puzzle.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483813701738" ignored="false" />
     <file path="/CreatorFromSequence.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483634831340" ignored="false" />
-    <file path="/PuzzleCreator.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483634733344" ignored="false" />
+    <file path="/PuzzleCreator.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483805406684" ignored="false" />
     <file path="/CreatorFromSolution.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483634870271" ignored="false" />
-    <file path="/PuzzleAttributes.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483632709628" ignored="false" />
+    <file path="/PuzzleAttributes.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483818799055" ignored="false" />
     <file path="/PuzzleCreatorFactory.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483635626030" ignored="false" />
-    <file path="/Printer.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483636681766" ignored="false" />
+    <file path="/Printer.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483818864667" ignored="false" />
     <file path="/Row.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483637470195" ignored="false" />
     <file path="/Column.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483637475172" ignored="false" />
     <file path="/Headers.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483637507001" ignored="false" />
     <file path="$PROJECT_DIR$/src/solving/Headers.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483637628327" ignored="false" />
     <file path="$PROJECT_DIR$/src/solving/Column.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483637636273" ignored="false" />
     <file path="$PROJECT_DIR$/src/solving/Row.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483637637716" ignored="false" />
-    <file path="/Deductor.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483639246297" ignored="false" />
+    <file path="/Deductor.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483835786225" ignored="false" />
     <file path="/Data.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483638169600" ignored="false" />
+    <file path="/SequenceParser.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483820855359" ignored="false" />
+    <file path="/ParserFactory.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483807304400" ignored="false" />
+    <file path="/PuzzleParser.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483820784244" ignored="false" />
+    <file path="/SolutionParser.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483821580519" ignored="false" />
+    <file path="/RowDeductor.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483832679292" ignored="false" />
+    <file path="/a.dummy" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483830850660" ignored="false" />
+    <file path="/ColumnDeductor.java" changelist="0d3b1c08-ddd2-45b8-b499-efd06de6f467" time="1483832704324" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,10 +96,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Solver.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Solver.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/solving/Solver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="39" selection-start="399" selection-end="399" vertical-scroll-proportion="0.5894161">
+            <state line="210" column="69" selection-start="8767" selection-end="8767" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,10 +107,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JapanesePuzzleBackUp.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JapanesePuzzleBackUp.java">
+      <file leaf-file-name="PuzzleAttributes.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/creating/PuzzleAttributes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1095" column="55" selection-start="34123" selection-end="34123" vertical-scroll-proportion="-10.36">
+            <state line="13" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Printer.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="88" selection-start="480" selection-end="480" vertical-scroll-proportion="0.36567163">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RowDeductor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solving/deductors/RowDeductor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="48" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolutionParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/creating/parsers/SolutionParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="66" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deductor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solving/deductors/Deductor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="127" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeductionAttributes.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solving/deductors/DeductionAttributes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="28" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,22 +173,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/creating/creators/PuzzleCreator.java" />
-        <option value="$PROJECT_DIR$/src/creating/creators/CreatorFromSequence.java" />
-        <option value="$PROJECT_DIR$/src/creating/creators/CreatorFromSolution.java" />
-        <option value="$PROJECT_DIR$/src/creating/PuzzleCreatorFactory.java" />
-        <option value="$PROJECT_DIR$/src/creating/InputFile.java" />
-        <option value="$PROJECT_DIR$/src/Solver.java" />
-        <option value="$PROJECT_DIR$/JapanesePuzzleBackUp.java" />
+        <option value="$PROJECT_DIR$/src/creating/ParserFactory.java" />
+        <option value="$PROJECT_DIR$/src/solving/AnswerPicture.java" />
         <option value="$PROJECT_DIR$/src/JapanesePuzzle.java" />
-        <option value="$PROJECT_DIR$/src/Printer.java" />
-        <option value="$PROJECT_DIR$/src/solving/Headers.java" />
-        <option value="$PROJECT_DIR$/src/solving/Row.java" />
-        <option value="$PROJECT_DIR$/src/solving/Column.java" />
-        <option value="$PROJECT_DIR$/src/solving/Data.java" />
-        <option value="$PROJECT_DIR$/src/solving/HeaderData.java" />
+        <option value="$PROJECT_DIR$/src/creating/InputFile.java" />
+        <option value="$PROJECT_DIR$/src/creating/parsers/PuzzleParser.java" />
+        <option value="$PROJECT_DIR$/src/creating/parsers/SequenceParser.java" />
+        <option value="$PROJECT_DIR$/src/creating/parsers/SolutionParser.java" />
+        <option value="$PROJECT_DIR$/src/creating/Puzzle.java" />
+        <option value="$PROJECT_DIR$/src/solving/RowDeductor.java" />
+        <option value="$PROJECT_DIR$/src/solving/ColumnDeductor.java" />
         <option value="$PROJECT_DIR$/src/solving/Deductor.java" />
+        <option value="$PROJECT_DIR$/src/creating/PuzzleAttributes.java" />
+        <option value="$PROJECT_DIR$/src/solving/deductors/DeductionAttributes.java" />
+        <option value="$PROJECT_DIR$/src/solving/deductors/Deductor.java" />
         <option value="$PROJECT_DIR$/src/solving/Solver.java" />
+        <option value="$PROJECT_DIR$/src/Printer.java" />
       </list>
     </option>
   </component>
@@ -155,7 +209,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -171,6 +225,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -235,26 +290,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="solving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deductors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="japanese-puzzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="japanese-puzzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="creating" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="japanese-puzzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="japanese-puzzle-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="creating" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parsers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Properties" />
     <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -262,6 +363,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="solving" />
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -272,7 +374,7 @@
     <configuration default="false" name="JapanesePuzzle" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="JapanesePuzzle" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;C:\My_Pro\japanese-puzzle-master\japanese-puzzle-master\examples\example.jpseq&quot;" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\My_Pro\japanese-puzzle-master\japanese-puzzle-master\examples\example.jpsol&quot;" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -393,6 +495,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0d3b1c08-ddd2-45b8-b499-efd06de6f467" name="Default" comment="" />
@@ -410,7 +529,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40980735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -419,8 +538,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924242" sideWeight="0.7120954" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20681818" sideWeight="0.72913116" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27086884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6712095" order="5" side_tool="false" content_ui="combo" />
@@ -492,119 +611,216 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/japanese-puzzle-master.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="975" column="0" selection-start="37150" selection-end="37150" vertical-scroll-proportion="0.0">
+        <state line="12" column="67" selection-start="425" selection-end="425" vertical-scroll-proportion="0.36363637" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JapanesePuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="57" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.75757575">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creating/parsers/PuzzleParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="53" selection-start="396" selection-end="396" vertical-scroll-proportion="0.36363637">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/jre/lib/rt.jar!/sun/misc/Launcher.class">
+    <entry file="file://$PROJECT_DIR$/src/creating/parsers/SequenceParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="34" selection-start="1324" selection-end="1324" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="487" column="0" selection-start="18407" selection-end="18407" vertical-scroll-proportion="0.33333334">
+        <state line="20" column="55" selection-start="533" selection-end="533" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/creating/InputFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
+        <state line="16" column="71" selection-start="444" selection-end="444" vertical-scroll-proportion="0.3030303">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/creating/ParserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/creating/PuzzleCreatorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0">
+        <state line="20" column="82" selection-start="536" selection-end="536" vertical-scroll-proportion="0.6060606">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/creating/creators/PuzzleCreator.java">
+    <entry file="file://$PROJECT_DIR$/src/creating/Puzzle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#createPuzzleFromSequences#0;class#PuzzleCreator#0" expanded="false" />
-            <element signature="e#1150#1172#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/creating/creators/CreatorFromSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="503" selection-end="503" vertical-scroll-proportion="0.2780612">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#619#630#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="68" selection-start="266" selection-end="266" vertical-scroll-proportion="0.33333334">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/creating/PuzzleAttributes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="65" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.54545456">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JapanesePuzzle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="59" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/japanese-puzzle-master.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="67" selection-start="425" selection-end="425" vertical-scroll-proportion="0.36363637">
+        <state line="14" column="63" selection-start="326" selection-end="326" vertical-scroll-proportion="0.42424244">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JapanesePuzzleBackUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1095" column="55" selection-start="34123" selection-end="34123" vertical-scroll-proportion="-10.36">
+        <state line="1171" column="60" selection-start="36311" selection-end="36311" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#deductRow#0;class#JapanesePuzzleBackUp#0" expanded="false" />
+            <element signature="method#deductColumn#0;class#JapanesePuzzleBackUp#0" expanded="false" />
+            <element signature="method#deductColRecursive#0;class#JapanesePuzzleBackUp#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solving/deductors/RowDeductor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="48" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creating/PuzzleAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solving/deductors/Deductor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="127" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solving/deductors/ColumnDeductor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="54" selection-start="501" selection-end="501" vertical-scroll-proportion="0.37777779">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creating/parsers/SolutionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="66" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solving/deductors/DeductionAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="28" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solving/Solver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="399" selection-end="399" vertical-scroll-proportion="0.5894161">
+        <state line="210" column="69" selection-start="8767" selection-end="8767" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="88" selection-start="480" selection-end="480" vertical-scroll-proportion="0.36567163">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>japanese-puzzle-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

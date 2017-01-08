@@ -11,12 +11,9 @@ Different solver techniques:
 Esa Junttila, 30.9.2007
 */
 
-import creating.Puzzle;
-import creating.PuzzleCreatorFactory;
-import creating.creators.PuzzleCreator;
+import creating.ParserFactory;
 import solving.Solver;
 
-import java.util.ArrayList;
 import java.io.IOException;
 
 public class JapanesePuzzle {
@@ -32,16 +29,14 @@ public class JapanesePuzzle {
         }
         try
         {
-            PuzzleCreator c =  PuzzleCreatorFactory.Create(args[0]);
-            Puzzle puzzle = c.CreatePuzzle();
-            Solver solver =  new Solver(puzzle);
+            Solver solver =  new Solver(ParserFactory.Create(args[0]).Parse());
 
             System.err.print("COMPUTING...");
             long startTime = System.currentTimeMillis();
-            ArrayList<int[][]> result = solver.solveDeduction();
+            int[][] result = solver.solveDeduction();
 
             long endTime = System.currentTimeMillis();
-            System.err.print("...OK (" + (endTime - startTime) + " ms)\n");
+            System.err.print("\n...OK (" + (endTime - startTime) + " ms)\n");
 
             Printer.PrintSolution(result);
         }
